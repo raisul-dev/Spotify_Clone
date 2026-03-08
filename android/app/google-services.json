@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85773194692",
+    "project_id": "bucket-list-app-8a320",
+    "storage_bucket": "bucket-list-app-8a320.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85773194692:android:5b6f7653198011ec418091",
+        "android_client_info": {
+          "package_name": "com.example.spotify_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWvo0JIKP6el_Cf87nm3Diwy3KqYeE8pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
