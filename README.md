@@ -29,9 +29,9 @@ Material Design
 
 📱 App Screenshots
 🌙 Dark Mode
-<p align="center"><img src="assets/DarkMood/Splash.jpg" width="220"/> <img src="assets/DarkMood/Getstart.jpg" width="220"/> <img src="assets/DarkMood/Register.jpg" width="220"/> <img src="assets/DarkMood/RegisterSignin.jpg" width="220"/> </p> <p align="center"> <img src="assets/DarkMood/Signin.jpg" width="220"/>  </p>
+<p align="center"><img src="assets/DarkMood/Splash.jpg" width="220"/> <img src="assets/DarkMood/Getstart.jpg" width="220"/> <img src="assets/DarkMood/RegisterSignin.jpg" width="220"/> <img src="assets/DarkMood/Register.jpg" width="220"/> </p> <p align="center"> <img src="assets/DarkMood/Signin.jpg" width="220"/>  </p>
 ☀️ Light Mode
-<p align="center"><img src="assets/Light%20mood/splash.jpg" width="220"/> <img src="assets/Light%20mood/getStart.jpg" width="220"/> <img src="assets/Light%20mood/Register.jpg" width="220"/> <img src="assets/Light%20mood/register_Signin.jpg" width="220"/> </p> <p align="center"> <img src="assets/Light%20mood/SignIn.jpg" width="220"/>  </p>
+<p align="center"><img src="assets/Light%20mood/splash.jpg" width="220"/> <img src="assets/Light%20mood/getStart.jpg" width="220"/><img src="assets/Light%20mood/register_Signin.jpg" width="220"/>  <img src="assets/Light%20mood/Register.jpg" width="220"/> </p> <p align="center"> <img src="assets/Light%20mood/SignIn.jpg" width="220"/>  </p>
 
 
 ///Clone the repository
